@@ -38,12 +38,16 @@ div{
     background-image: url(../img/atv1.png);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 80%;
 }
 
 #atv2{
-    background-image: url(../img/atv1.png);
+    background-image: url(../img/pngwing.com.png);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 50%;
 }
 
 a{
